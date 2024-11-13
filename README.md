@@ -1,9 +1,9 @@
 # taleisha.dev
-My personal website and resume, located [here](https://taleisha.dev)!
+My personal website and resume, which will be located [here](https://taleisha.dev)! *(when I can get it to work, that is)*
 
 ## tech info
 ### stack
-* *frontend:* react + next.js
+* *frontend:* react + next.js + typescript
 * *backend:* azure something-or-rather, havent gotten that far yet
 ### fun stuff
 * tbd
