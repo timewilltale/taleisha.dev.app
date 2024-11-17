@@ -3,7 +3,7 @@
     {
       "route": "witty-desert-023d1c800.5.azurestaticapps.net",
       "redirect": "taleisha.dev",
-      "statusCode": 404
+      "statusCode": 301
     }
   ]
 }
