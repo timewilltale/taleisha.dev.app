@@ -57,7 +57,6 @@ jobs:
           output_location: "" # Built app content directory - optional
           github_id_token: ${{ steps.idtoken.outputs.result }}
           production_branch: "main"
-          development_branch: "dev"
           ###### End of Repository/Build Configurations ######
 
   close_pull_request_job:
