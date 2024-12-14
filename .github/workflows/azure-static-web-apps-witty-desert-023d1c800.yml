@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - dev
   pull_request:
     types: [opened, synchronize, reopened, closed]
     branches:
@@ -55,6 +56,8 @@ jobs:
           api_location: "" # Api source code path - optional
           output_location: "" # Built app content directory - optional
           github_id_token: ${{ steps.idtoken.outputs.result }}
+          production_branch: "main"
+          development_branch: "dev"
           ###### End of Repository/Build Configurations ######
 
   close_pull_request_job:
