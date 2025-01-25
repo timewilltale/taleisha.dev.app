@@ -1,12 +1,18 @@
 # taleisha.dev
-My personal website and resume, which will be located [here](https://taleisha.dev)! *(when I can get it to work, that is)*
+
+My personal website and resume, which will be located [here](https://taleisha.dev)! _(when I can get it to work, that is)_
 
 ## tech info
+
 ### stack
-* *frontend:* react + next.js + typescript
-* *backend:* azure something-or-rather, havent gotten that far yet
+
+- _frontend:_ react + next.js + typescript
+- _backend:_ azure something-or-rather, havent gotten that far yet
+
 ### fun stuff
-* tbd
+
+- tbd
 
 ## resources
-* [cloud resume challenge](https://cloudresumechallenge.dev/docs/the-challenge/azure/)
+
+- [cloud resume challenge](https://cloudresumechallenge.dev/docs/the-challenge/azure/)
