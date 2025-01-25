@@ -1,9 +1,9 @@
 {
-    "routes": [
-        {
-            "route": "witty-desert-023d1c800.5.azurestaticapps.net",
-            "redirect": "taleisha.dev",
-            "statusCode": 301
-        }
-    ]
+  "routes": [
+    {
+      "route": "witty-desert-023d1c800.5.azurestaticapps.net",
+      "redirect": "taleisha.dev",
+      "statusCode": 301
+    }
+  ]
 }
